@@ -22,6 +22,25 @@
     ]
   },
   {
+    "name": "CorpLinkz",
+    "thumb": "CorpLinkz/thumb.png",
+    "desc": "Corporate Video Advertising/Sharing",
+    "url": "http://www.corplinkz.com", 
+    "submitter": "vkscool", 
+    "submissionDate": "2014-06-22",
+    "tags": [
+       "Production",
+       "Entertainement",Video","Corporate","Advertisement",
+       "VideoJs",
+       "FFMPEG",
+       "Spring",
+       "Hibernate",
+       "Bootstrap",
+       "JQuery",
+       "JSON"
+    ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
